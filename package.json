@@ -1,0 +1,12 @@
+{
+  "name": "dogguard",
+  "version": "0.1.0",
+  "description": "DogGuard Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
